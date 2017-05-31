@@ -1,0 +1,89 @@
+body {
+		background: url(PopularFondo.jpg);
+		background-size: 100%;
+}
+#allContent{
+		margin: 0px auto;
+		width: min-content;
+}
+
+#contenido {
+		height: 300px;
+}
+
+#left_btns {
+		float: left;
+}
+
+#right_btns {
+		float: right;
+}
+
+
+#div_sections {
+		text-align: center;
+		height: 200px;	
+}
+
+button {
+	height: 60px;
+	width: 100px;
+	border: 2px solid white;
+	border-radius: 5px;
+}
+
+button:hover {
+    background: blue;
+    color: white;	
+}
+
+.btns {
+		display: block;
+		margin-top: 20px;	
+}
+
+.filasnleft{
+		float: left;
+		margin-left: 20px;
+}
+
+.filasnright{
+		float: right;
+		margin-right: 20px;
+}
+
+#footer {
+	text-align: center;
+	margin-top: 7%;
+}
+
+#exit {
+		text-align: right;
+}
+
+p {
+		font-size: 20px;
+		color: white;
+		font-style: bold;
+		margin-top: 40px;
+}
+
+span {
+		display: block;
+		margin-top: 57px;
+		font-size: 20px;
+		color: white;
+		font-style: bold;
+}
+
+
+.fijo {
+		
+}
+.nofijo {
+		display: none;
+}
+
+#imgport {
+		margin-top: 20px;
+}
